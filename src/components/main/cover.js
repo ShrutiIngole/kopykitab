@@ -1,3 +1,4 @@
+import React from 'react';
 import coverImg from '../../coverImg.png';
 
 const Cover = () => {

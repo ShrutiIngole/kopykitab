@@ -1,3 +1,4 @@
+import React from 'react';
 import Cover from './cover';
 import Details from './details'
 

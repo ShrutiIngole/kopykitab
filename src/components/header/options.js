@@ -1,3 +1,4 @@
+import React from 'react';
 import './style/options.css';
 
 const Options = () => {

@@ -1,3 +1,4 @@
+import React from 'react';
 import Options from './options';
 import Title from './title';
 import Menu from './menu';

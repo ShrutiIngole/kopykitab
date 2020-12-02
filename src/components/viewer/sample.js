@@ -1,3 +1,4 @@
+import React from 'react';
 import filepdf from '../../sample.pdf'
 
 const Sample = () => {

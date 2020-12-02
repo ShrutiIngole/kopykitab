@@ -1,3 +1,4 @@
+import React from 'react';
 import RelBooks from './relatedBook';
 import store from '../../redux/store';
 
@@ -54,11 +55,11 @@ const Details = () => {
                 <button className="button orange-grad">Buy this eBook</button>
             </div>
             <span className="social">
-                <a href="#">
+                <a href="#top">
                     <i className="far fa-heart fa-lg fa-lg-margin orange" />
                     <span className="grey-text">Add to Wish List</span>
                 </a>
-                <a href="#">
+                <a href="#top">
                     <i className="fas fa-share-alt fa-lg fa-lg-margin orange" />
                     <span className="grey-text">Share</span>
                 </a>
@@ -87,7 +88,7 @@ const Details = () => {
                     Publisher
                     </td>
                     <td className="td-value">
-                    <a href="#" className="spec-link">G R Bathla Publications</a>
+                    <a href="#top" className="spec-link">G R Bathla Publications</a>
                     </td>
                 </tr>
                 <tr>
@@ -103,7 +104,7 @@ const Details = () => {
                     Author
                     </td>
                     <td className="td-value">
-                    <a href="#" className="spec-link">Girish Gaur</a>
+                    <a href="#top" className="spec-link">Girish Gaur</a>
                     </td>
                 </tr>
                 <tr>
