@@ -1,0 +1,172 @@
+.book-title {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.author {
+    font-size: small;
+}
+
+.a {
+    color: darkgray;
+    text-decoration: none;
+}
+
+.a:hover {
+    text-decoration: none;
+}
+
+.price-table {
+    margin: 5% 0%;
+    font-size: small;
+}
+
+.td {
+    padding: 1%;
+    white-space: nowrap;
+}
+
+.mrp {
+    color: red;
+}
+
+.save {
+    color: green;
+}
+
+.sp-value {
+    font-weight: bold;
+}
+
+.mrp-value {
+    font-weight: bold;
+    color: red;
+    text-decoration: line-through;
+}
+
+.save-value  {
+    font-weight: bold;
+    color: green;
+}
+
+.sp-value {
+    font-size: large;
+}
+
+
+.button-section {
+    border-top: 1px solid #f4f4f4;
+    padding: 2%;
+}
+
+.white-back {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.button {
+    width: 45%;
+    height: auto;
+    padding: 3% 5%;
+    margin: 10px;
+    border-radius: 5px;
+    white-space: nowrap;
+    font-size: medium;
+}
+
+.social {
+    padding-left: 3%;
+    font-size: small;
+}
+
+.fa-lg-margin {
+    margin: 5%;
+}
+
+.fa-percent {
+    margin-right: 3%;
+}
+
+.offers {
+    border: 1px solid #fff3aa;
+    padding: 3% 4%;
+    font-size: small;
+    background-color: #fffbe0;
+}
+
+.row-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: 600;
+}
+
+.row-bottom {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.grey-text {
+    color: #555;
+    font-size: small;
+}
+
+.td-label, .td-value {
+    padding: 3% 5%;
+}
+
+.td-value {
+    width: 75%;
+    height: auto;
+    white-space: nowrap;
+}
+
+.td-value, .td-label, .grey-border {
+    border: 1px solid #999;
+}
+
+.grey-border {
+    border-collapse: collapse;
+}   
+
+.spec-table {
+    margin: 2%;
+    margin-left: 0%;
+}
+
+.spec-link, .spec-link:hover {
+    color: rgb(0, 153, 255);
+    text-decoration: none;;
+}
+
+.rel-books {
+    height: auto;
+    margin: 3% 0%;
+    border: 1px solid #aaa;
+}
+
+.botttom-line, .bl-col-2, .bl-col-1, .bl-col-3 {
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+
+.bl-col-1 {
+    width: 20%;
+}
+
+.bl-col-2 {
+    width: 30%;
+    padding: 5%;
+    
+}
+
+.bl-col-3 {
+    width: 50%;
+}
+
+.bl-col-3 button {
+    width: 90%;
+    height: 100%;
+    padding: 5% 0%;
+}

@@ -1,0 +1,15 @@
+.viewer {
+    width: 70%;
+    margin: 2% 15%;
+    height: 600px;
+}
+
+.nav-top {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-top a {
+    color: black;
+}

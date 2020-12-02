@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    font-size: small;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.orange-grad {
+    background: linear-gradient(135deg,#ff8f00 0,#fe5b06 100%);
+}
+
+.orange {
+    color: #ff8f00;
+}
