@@ -1,3 +1,4 @@
+import React from 'react';
 import Header from './components/header/header';
 import Main from './components/main/main';
 import Viewer from './components/viewer/viewer';
